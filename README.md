@@ -159,8 +159,8 @@ SECUREBALLOT/
 The repository includes the following visual resources:
 
 ![SECUREBALLOT: RFID-BASED SECURE ELECTRONIC VOTING SYSTEM](pictures/major_block.jpg)
-![SECUREBALLOT: RFID-BASED SECURE ELECTRONIC VOTING SYSTEM](pictures/output_image1.jpg)
-![SECUREBALLOT: RFID-BASED SECURE ELECTRONIC VOTING SYSTEM](pictures/output_image2.jpg)
+![SECUREBALLOT: RFID-BASED SECURE ELECTRONIC VOTING SYSTEM](pictures/output_image1.jpeg)
+![SECUREBALLOT: RFID-BASED SECURE ELECTRONIC VOTING SYSTEM](pictures/output_image2.jpeg)
 
 ## 🔮 Future Enhancements
 
@@ -182,19 +182,4 @@ This project demonstrates practical experience with:
 - LCD and keypad interfacing.
 - Modular embedded software development.
 - Data management and voting control logic.
-
-## ⚠️ Disclaimer
-
-This project is an educational embedded systems prototype. It has not been independently security-audited or certified for real-world public elections.
-
-## 👨‍💻 Project Details
-
-- **Project Name:** SECUREBALLOT: RFID-Based Secure Electronic Voting System
-- **Domain:** Embedded Systems
-- **Controller:** ARM7 LPC2148
-- **Language:** Embedded C
-- **Development Tool:** Keil µVision
-
 ---
-
-⭐ If you find this project useful, feel free to explore the source code and learn more about embedded systems development.
